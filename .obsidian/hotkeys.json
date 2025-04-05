@@ -2,7 +2,8 @@
   "obsidian-git:push": [
     {
       "modifiers": [
-        "Alt"
+        "Mod",
+        "Shift"
       ],
       "key": "P"
     }

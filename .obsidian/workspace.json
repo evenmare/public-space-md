@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "87a6f33446419f67",
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7f3eb3bbfea983b",
+  "active": "9346b0267794ca9a",
   "lastOpenFiles": [
     "Настройка окружения.md"
   ]
